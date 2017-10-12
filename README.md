@@ -5,10 +5,8 @@ Cryptocurrency hashing functions for node.js.
 
 Algorithms add
 ----------
-* thriddle      /ThorsRiddle, Veltor/
-* lyra2         /Lyra2, Lyra/
-* lyra2z330     /Lyra2z8m330, Hexxcoin/
-* lyra2z16m330  /Lyra2z16m330, opt Zoincoin/
+* thriddle      /ThorsRiddle, Veltor/ - del
+* lyra2z330     /Lyra2z330, Hexxcoin, Zoincoin/
 * timetravel    /Time Travel, Machinecoin/
 
 Algorithms
