@@ -50,6 +50,10 @@
                 "crypto/hash.c",
                 "crypto/aesb.c",
                 "crypto/wild_keccak.cpp",
+                "lyra2.c",
+                "lyra/sponge.c",
+                "lyra2z330.c",
+                "timetravel.c",
             ],
             "include_dirs": [
                 "crypto",
